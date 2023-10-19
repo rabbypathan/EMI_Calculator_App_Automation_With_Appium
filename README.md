@@ -1,4 +1,4 @@
-# EMI_Calculator_App_Automation_With_Appium
+# EMI Calculator App Automation With Appium
 EMI Calculator is a simple loan calculation tool that helps to calculate EMI. Here, Selenium WebDriver & Appium are used to automate the EMI Calculator App.
 
 ## Tools & Technologies:
